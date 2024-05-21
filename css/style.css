@@ -1,0 +1,11 @@
+.container {
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+button{
+    color: white;
+    background-color: blue;
+    padding: 18px 40px;
+}
